@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THOMAS MANOJ MANI - Portfolio</title>
+    <title>THOMAS MANOJ MANI.Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -96,7 +96,7 @@
 <body>
     <header>
         <div class="header-content">
-            <img src="pic.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="./pic.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>R THOMAS MANOJ MANI</h1>
             <p>Trainer</p>
         </div>
